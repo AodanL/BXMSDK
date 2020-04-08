@@ -1,0 +1,6 @@
+framework module BXMSDK {
+  umbrella header "BXMSDK-umbrella.h"
+
+  export *
+  module * { export * }
+}
